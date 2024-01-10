@@ -1,0 +1,34 @@
+# <center>Functions in Python</center>
+
+
+# Exercise: Generate a list of 1000 intergers, from the list
+
+*   Create two lists, an even and odd one.
+
+
+
+# Exercise: Write a function called city_country() that accepts two inputs name of a city and its country. Give the parameter for the country a default value. The function should print a string formatted like ("Vancouver, Canada")
+
+
+# Exercise: Write a function that takes a string as an input and reverses the string
+
+# Exercise: Write a function to add "Ms" as title to the following list and saves it to a new list
+* 	l = ["Kim","Dona","Diana","Crystal"]
+
+
+# Exercise: Find the common elements between the two list, element that are in list a and not in list b and vice versa
+* a = [1,2,3,5,6,7,9,10]
+* b = [2,4,6,8,10]
+
+
+# Exercise: Write a function to Square the number from 0 to 10 
+
+
+# Exercise: combines even numbers from 0 through 4 with odd numbers from 0
+through 4. Result should like \[(0, 1), (0, 3), (2, 1), (2, 3), (4, 1), (4, 3)]
+
+
+# Exercise: Write a function that accepts a list of toppings that a person wants on his burger. The function should have one parameter that collects as many items as provided by the user, and it should print a summary of the sandwich being ordered.
+
+
+# Exercise: Write a function that stores information about a car in a dictionary. The function is provided a manufacturer and a model name. It should accept an arbitrary number of keyword arguments.
